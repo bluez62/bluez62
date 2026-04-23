@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @bluez62
-- I normally work on random projects that I think are interesting.
-- I'm a beginner so my code may be very messy.
-
-https://www.youtube.com/@Bluez62
+Hello! I'm Bluez62! I work on random projects for fun and they are usally not that serious!
 
 <!---
 bluez62/bluez62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
